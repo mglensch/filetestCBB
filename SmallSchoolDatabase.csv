@@ -1,0 +1,47 @@
+schoolName,mascot,abbreviation,conference,primaryHexColor,secondaryHexColor,prestige,homeState,pipelineStates
+Alabama,Crimson Tide,ALA,South,9E1B32,828A8F,75,AL,AL
+Arizona,Wildcats,ARIZ,West,CC0033,003366,95,AZ,AZ.NM
+Arkansas,Razorbacks,ARK,South,9D2235,FFFFFF,97,AR,AR.MS
+California,Golden Bears,CAL,West,003262,3B7EA1,89,CA,CA.OR
+Colorado,Buffaloes,COLO,West,CFB87C,000000,47,CO,CO
+Connecticut,Huskies,UCONN,Northeast,000E2F,FFFFFF,57,CT,CT
+Delaware,Blue Hens,DEL,Northeast,00539F,FFDD31,67,DE,DE
+Florida,Gators,FLA,South,0021A5,FA4616,54,FL,FL
+Georgia,Bulldogs,UGA ,South,BA0C2F,000000,46,GA,GA
+Hawaii,Warriors,HAW,West,024731,C8C8C8,56,HI,HI
+Idaho,Vandals,ID,West,B3A369,EAAB00,71,ID,ID
+Illinois,Fighting Illini,ILL,Midwest,13294B,E84A27,83,IL,IL.IA
+Indiana,Hoosiers,IND,Midwest,990000,EEEDEB,68,IN,IN
+Iowa,Hawkeyes,IOWA,Midwest,FFCD00,000000,77,IA,IA
+Kansas,Jayhawks,KU,Midwest,0051BA,E8000D,73,KS,KS
+Kentucky,Wildcats,UK,South,0033A0,FFFFFF,88,KY,KY.TN
+Louisiana,Tigers,LSU,South,461D7C,FDD023,99,LA,LA.MS.TX
+Maine,Black Bears,MNE,Northeast,003263,B0D7FF,94,ME,ME.VT
+Maryland,Terrapins,UMD,Northeast,E03A3E,FFD520,81,MD,MD.VA
+Massachusetts,Minutemen,UMASS,Northeast,971B2F,572932,93,MA,MA.CT
+Michigan,Wolverines,MICH,Midwest,00274C,FFCB05,49,MI,MI
+Minnesota,Golden Gophers,MINN,Midwest,7A0019,FFCC33,40,MN,MN
+Mississippi,Bulldogs,MISS,South,660000,FFFFFF,54,MS,MS
+Missouri,Tigers,MIZZ,Midwest,000000,F1B82D,80,MO,MO
+Nebraska,Cornhuskers,NEB,Midwest,E41C38,FFFFFF,94,NE,NE.SD
+Nevada,Wolfpack,NEV,West,003366,807F84,48,NV,NV
+New Hampshire,Wildcats,NH,Northeast,041E42,BBBCBC,99,NH,NH.MA.ME
+New Jersey,Scarlet Knights,RUT,Northeast,CC0033,5F6A72,57,NJ,NJ
+New Mexico,Lobos,UNM,West,BA0C2F,A7A8AA,43,NM,NM
+New York,Bulls,BUF,Northeast,005BBB,FFFFFF,54,NY,NY
+North Carolina,Tar Heels,UNC,South,7BAFD4,FFFFFF,63,NC,NC
+North Dakota,Fighting Hawks,UND,Midwest,009A44,AAAEAD,56,ND,ND
+Ohio,Buckeyes,OSU,Midwest,BB0000,666666,70,OH,OH
+Oklahoma,Sooners,OKLA,South,841617,FDF9D8,56,OK,OK
+Oregon,Ducks,ORE,West,154733,FEE123,70,OR,OR
+Pennsylvania,Nittany Lions,PSU,Northeast,041E42,FFFFFF,60,PA,PA
+Rhode Island,Rams,RHI,Northeast,68ABE8,002147,75,RI,RI
+South Carolina,Gamecocks,SC,South,73000A,000000,88,SC,SC.NC
+South Dakota,Coyotes,USD,West,AD0000,B4B4B4,84,SD,SD.ND
+Tennessee,Volunteers,TENN,South,FF8200,58595B,69,TN,TN
+Texas,Longhorns,TEX,South,BF5700,FFFFFF,83,TX,TX
+Utah,Utes,UTAH,West,CC0000,808080,93,UT,UT.CO
+Vermont,Catamounts,VER,Northeast,154734,FFC72C,45,VT,VT
+Virginia,Cavaliers,UVA,Northeast,232D4B,F84C1E,98,VA,VA.NC
+West Virginia,Mountaineers,WVU,Midwest,002855,EAAA00,94,WV,WV.OH
+Wisconsin,Badgers,WISC,Midwest,C5050C,FFFFFF,49,WI,WI
